@@ -1,0 +1,7 @@
+{
+  "name": "KP",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
